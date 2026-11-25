@@ -910,3 +910,6 @@ a.service-media { display: block; }
 }
 .hero .lead.lead-first { margin-bottom: 8px; font-weight: 600; }
 .dstep .size-tool { margin-top: 18px; }
+/* Teljes, vágatlan kép (pl. Rólunk – üzletfotó): a kép a saját arányában jelenik meg. */
+.split-media.media-natural { aspect-ratio: auto; }
+.split-media.media-natural img { height: auto; object-fit: contain; display: block; }
