@@ -1135,7 +1135,7 @@ ${configuratorTeaser()}
 
 <section class="section bg-ink" id="rolunk" aria-labelledby="rolunk-cim">
   <div class="container split">
-    <div class="split-media reveal">${pic(slot("fooldal-rolunk", "npAcJL2BvKL0vi51wMBNg1Ozks.png", "Főoldal – Rólunk (sötét sáv)"), "Az In My Style szalon a II. kerületi Kapás utcában")}</div>
+    <div class="split-media media-natural reveal">${pic(slot("fooldal-rolunk", "npAcJL2BvKL0vi51wMBNg1Ozks.png", "Főoldal – Rólunk (sötét sáv)"), "Az In My Style szalon belső tere a II. kerületi Kapás utcában")}</div>
     <div class="split-body">
       <div class="eyebrow" style="color:#a9c6e2">Rólunk</div>
       <h2 class="h2" id="rolunk-cim">Valódi nőknek, valódi nőktől</h2>
